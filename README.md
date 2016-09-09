@@ -1,5 +1,7 @@
 ## Laravel Blog sample - A short blog created in Laravel 5.2
 
+![alt tag](http://laravel-recipes.com/assets/img/l5beauty.jpg)
+
 This App is a from a tutorial [this](http://laravelcoding.com/blog?tag=L5+Beauty). 
 
 The tutorial teaches a lot of [laravel](Laravel.com) features.
