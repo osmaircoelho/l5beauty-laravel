@@ -25,7 +25,20 @@ along with the administration required to maintain the blog
    -  Beanstalkd
    -  Laravel Envoy
    -  Fabric + HipChat Extension
-
+   -  
+##Software and tools that are supporting the development
+ - Node js
+  -Bower, Grunt, Gulp, Elixir
+ - Twitter Bootstrap’s
+ - FontAwesome and DataTables
+ - JQuery
+ - CSS, HTML
+ - [Git & GitHub] (https://github.com/)
+##Software editor
+ - [PHP Storm] (https://www.jetbrains.com/phpstorm/download)
+##Testing
+ - PHPUnit
+ - Gulp TDD
 
 # Features:
  	Admin Section
