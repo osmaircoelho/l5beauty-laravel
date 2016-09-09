@@ -36,7 +36,7 @@ along with the administration required to maintain the blog
  - Git & GitHub [Git] (https://github.com/)
  
 ##Software editor
-  PHP Storm [jetbrains] (https://www.jetbrains.com/phpstorm/download)
+ - PHP Storm [jetbrains] (https://www.jetbrains.com/phpstorm/download)
  
 ##Testing
  - PHPUnit
