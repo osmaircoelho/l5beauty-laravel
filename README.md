@@ -47,7 +47,7 @@ along with the administration required to maintain the blog
 # Features:
  	Admin Section
  	Blog Section.
- 	Commenting using [Disqus](https://disqus.com/home/).
+ 	Commenting using [Disqus](https://disqus.com/home/)
  	File Upload
  	Pagnation
  	Blog theme.
@@ -61,6 +61,6 @@ along with the administration required to maintain the blog
  	FileSystem
  	and many more.
  	
- 	Laravel [features](http://laravel.com/docs/5.1/).
+ 	Laravel [features](http://laravel.com/docs/5.2/)
  	
 
