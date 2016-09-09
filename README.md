@@ -44,6 +44,19 @@ along with the administration required to maintain the blog
  - PHPUnit
  - Gulp TDD
 
+# Key points in the development
+- Testing
+- The 10 minute Blog
+- Starting the Admin Area
+- Using Bower
+- Blog Tags
+- Upload Manager
+- Post Administration
+- Cleaning Up the Blog
+- Sending Mail and Using Queues
+- Adding Comments, RSS, and a Site Map
+- General Reacap and Looking Forward
+
 # Features:
  	Admin Section
  	Blog Section.
