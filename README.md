@@ -1,8 +1,12 @@
-# Laravel Blog sample - A short blog created in Laravel 5.2
+## Laravel Blog sample - A short blog created in Laravel 5.2
 
 This App is a from a tutorial [this](http://laravelcoding.com/blog?tag=L5+Beauty). 
 
 The tutorial teaches a lot of [laravel](Laravel.com) features.
+
+##What is the Application?
+A simple, clean and beautiful blogging application
+along with the administration required to maintain the blog
 
 # Features:
  	Admin Section
