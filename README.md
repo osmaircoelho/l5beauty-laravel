@@ -1,4 +1,4 @@
-# Laravel Blog sample  A short blog created in Laravel 5.2
+# Laravel Blog sample - A short blog created in Laravel 5.2
 
 This App is a from a tutorial [this](http://laravelcoding.com/blog?tag=L5+Beauty). 
 
