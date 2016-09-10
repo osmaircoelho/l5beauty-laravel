@@ -2,7 +2,7 @@
  var rename = require('gulp-rename');
  var elixir = require('laravel-elixir');
 
- /**
+  /**
   * Copy any needed files.
   *
   * Do a 'gulp copyfiles' after bower updates
@@ -61,6 +61,9 @@
      gulp.src("vendor/bower_dl/pickadate/lib/compressed/picker.time.js")
          .pipe(gulp.dest("public/assets/pickadate/"));
 
+     // Copy clean-blog less files
+     gulp.src("vendor/bower_dl/clean-blog/less/**")
+         .pipe(gulp.dest("resources/assets/less/clean-blog"));
      });
 
  /**
@@ -75,10 +78,17 @@
              'js/jquery.dataTables.js',
              'js/dataTables.bootstrap.js'
              ],
-         'public/assets/js/admin.js',
-         'resources/assets'
+         'public/assets/js/admin.js', 'resources/assets'
      );
 
-     // Compile Less
+     // Combine blog scripts
+     mix.scripts([
+         'js/jquery.js',
+         'js/bootstrap.js',
+         'js/blog.js'
+     ], 'public/assets/js/blog.js', 'resources//assets');
+
+     // Compile CSS
      mix.less('admin.less', 'public/assets/css/admin.css');
+     mix.less('blog.less', 'public/assets/css/blog.css');
      });
